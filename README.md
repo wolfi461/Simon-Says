@@ -13,6 +13,14 @@ If you choose a difficulty level, you'll see the following screen:
 
 ![alt text](https://github.com/wolfi461/Simon-Says/blob/master/img/level.jpg?raw=true)
 
+easy = 4 turns
+
+normal = 8 turns
+
+hard = 12 turns
+
+extreme! = 16 turns
+
 If you start the game, you'll see this screen:
 
 ![alt text](https://github.com/wolfi461/Simon-Says/blob/master/img/game.jpg?raw=true)
