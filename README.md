@@ -4,6 +4,7 @@ This is a final project for my Assembly course. My partner and I created a versi
 The project involved a lot of self-learning, especially for the graphics, sounds, and mouse clicks.
 
 The game has a main menu that looks like that:
+
 ![alt text](https://github.com/wolfi461/Simon-Says/blob/master/img/main%20menu.jpg?raw=true)
 
 where you can choose a difficulty level, read the instructions, start the game, or exit.
